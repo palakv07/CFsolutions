@@ -6,14 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [brute force](#brute-force) (2)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
+- [implementation](#implementation) (2)
+- [math](#math) (2)
+- [strings](#strings) (2)
 
 ---
 
@@ -22,12 +26,40 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 378A | [Playing with Dice](https://codeforces.com/contest/378/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/378/A%20-%20Playing%20with%20Dice/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 
 ---
 
