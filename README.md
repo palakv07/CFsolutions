@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 6 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [strings](#strings) (2)
 
 ---
@@ -52,6 +52,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/palakv07/CFsolutions/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 
 ### strings
